@@ -19,6 +19,4 @@
 ## Sobre Mim!<br/>
 🔍 → Analista de Sistemas<br/>
 🖥️ → Desenvolvedor Front-end<br/>
-📕 → Estudante de Programação<br/>
-📗 → Estudante de Web Design<br/>
 📚 → Estudante Full Stack<br/>
